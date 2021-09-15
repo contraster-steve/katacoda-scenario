@@ -22,12 +22,11 @@ https://ts.steve.contrast.pw/
 
 3: Find the key elements you will need to populate In Organization Settings -> API. In the YAML file. You will need:  
 
-a. Agent Username
-b. Agent Service Key
-c. API Key
+a: Agent Username
+b: Agent Service Key
+c: API Key
 
 4: Populate the contrast_security.yaml file with these values. You can use the KataKoda Editor in the top right portion of this screen to modify the file. 
 
-a. Replace WebGoat_Student## with your student number for example if your student 10 your application name will be "WebGoat_Student10".
-b. Also update the standalone_app_name field as this will ensure route coverage is applied to the java application.
-
+a: Replace WebGoat_Student## with your student number for example if your student 10 your application name will be "WebGoat_Student10".
+b: Also update the standalone_app_name field as this will ensure route coverage is applied to the java application.
