@@ -1,6 +1,6 @@
 {
   "title": "Onboard and Instrument Contrast with WebGoat",
-  "description": "Learn how to install, configure, and run the Contrast Agent.",
+  "description": "Learn how to install, configure, and run the Contrast Agent using the OWASP sample Java web application, WebGoat.",
   "difficulty": "Beginner",
   "time": "30",
   "details": {
