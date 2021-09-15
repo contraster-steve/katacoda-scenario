@@ -35,7 +35,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Contrast URL", "href": "https://ts.steve.contrast.pw/Contrast/"},
+    "dashboards": [{"name": "Contrast URL", "href": "https://ts.steve.contrast.pw/"},
                    {"name": "WebGoat", "href": "http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/WebGoat"}
                   ],
     "uilayout": "editor-terminal"
