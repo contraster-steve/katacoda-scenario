@@ -12,4 +12,4 @@ Step 2: Build the Webgoat application from source using Maven.
 
 `mvn clean install -DskipTests`{{execute}}
 
-You can open a new terminal tab and continue with the lab while the application compiles
+You can open a new terminal tab and continue with the lab while the application compiles.
