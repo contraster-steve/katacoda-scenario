@@ -1,5 +1,11 @@
 Lab 1: Welcome to then Onboarding and Instrumenting Contrast Agent exercise!
 
+Pre-requisites: 
+
+1. User account on Steve Smith's EOP Team Server to https://ts.steve.contrast.pw/.
+2. Access to the Contrast Lab Environment Organization.
+3. Ability to download Agents.
+
 In this lab we will:
 
 1. Clone and build the Webgoat Java application.
