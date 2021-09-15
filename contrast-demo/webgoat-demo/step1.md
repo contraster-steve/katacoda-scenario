@@ -6,9 +6,11 @@ You'll also note that at the top of the terminal window, you should see "Termina
 
 `git clone https://github.com/WebGoat/WebGoat.git`{{execute}}
 
-2: Build the Webgoat application from source using Maven. 
+2: Change directories into the new local WebGoat repo. 
 
 `cd WebGoat`{{execute}}
+
+3. Build the Webgoat application from source using Maven. 
 
 `mvn clean install -DskipTests`{{execute}}
 
