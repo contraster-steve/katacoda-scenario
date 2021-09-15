@@ -1,11 +1,11 @@
 {
-  "title": "Onboarding with Contrast",
-  "description": "Learn how to onboard a demo application into the Contrast platform.",
+  "title": "Lesson 1: Onboard and Instrument Contrast with WebGoat",
+  "description": "Learn how to successfully onboard a demo application into the Contrast Team Server.",
   "courses": [
     {
       "course_id": "webgoat-demo",
       "title": "Deploy WebGoat with Contrast",
-      "description": ""
+      "description": "In this exercise, you will build the OWASP WebGoat application and instrument it in Contrast."
     }
   ]
 }
