@@ -1,13 +1,13 @@
-Login to the contrast platform at:
+The last step is to log into Contraast and verify that you see your WebGoat application in the Applications tab. 
 
-https://apptwo.contrastsecurity.com
+1: With the credentials you were provided, ensure your application has been onboarded properly. 
 
-With the credentials you were provided with. Ensure your application has been onboarded
+Login to the contrast platform at: https://ts.steve.contrast.pw/
 
-Explore the various tabs:
+2: Explore the various tabs:
 
 Do you see your application score? 
 How many routes are there? 
 How many libraries does your application have?
 
-Thank you for completing this exercise!!!!!
+Thank you for completing this exercise.
