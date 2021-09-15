@@ -6,8 +6,8 @@ Login to the contrast platform at: https://ts.steve.contrast.pw/
 
 2: Explore the various tabs:
 
-Do you see your application score? 
-How many routes are there? 
-How many libraries does your application have?
+1. Do you see your application score? 
+2. How many routes are there? 
+3. How many libraries does your application have?
 
 Thank you for completing this exercise.
