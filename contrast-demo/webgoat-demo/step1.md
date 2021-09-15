@@ -10,7 +10,7 @@ You'll also note that at the top of the terminal window, you should see "Termina
 
 `cd WebGoat`{{execute}}
 
-3. Build the Webgoat application from source using Maven. 
+3: Build the Webgoat application from source using Maven. 
 
 `mvn clean install -DskipTests`{{execute}}
 
